@@ -10,7 +10,7 @@ import { defineConfig } from 'vite'
 import Pages from 'vite-plugin-pages'
 
 export default defineConfig({
-  base: '/ielts/',
+  base: '/',
   server: {
     host: '0.0.0.0',
     port: 3333,
